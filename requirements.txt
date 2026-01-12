@@ -1,0 +1,9 @@
+langchain==0.2.11
+langchain-community==0.2.11
+langgraph==0.0.40
+langchain-groq==0.1.5
+langchain-huggingface==0.0.3
+faiss-cpu==1.7.4
+sentence-transformers==2.6.1
+python-dotenv==1.0.1
+tiktoken==0.7.0
